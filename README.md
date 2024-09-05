@@ -1,4 +1,4 @@
-## Hi there 👋
+### Welcome, I'm Justine ![image of kirby surfing on a star.](https://www.deviantart.com/greenstarlover/art/Kirby-on-a-Warp-Star-gif-899709856)
 
 <!--
 **jazangara/jazangara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
