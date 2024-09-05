@@ -1,4 +1,9 @@
-### Welcome, I'm Justine ✨
+## Greetings, I'm Justine ✨
+
+#About me:
+I'm a Computer Science Undergraduate student with a concentration in Data Science at Fairleigh Dickinson University.
+Recently, I've been riding the AI/ML pipeline, I'm always looking ahead to the future!
+In between classes, I work as a TA for the "FDU CS for All" program, teaching teachers to implement CS in their classrooms.
 
 <!--
 **jazangara/jazangara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
